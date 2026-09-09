@@ -1,0 +1,15 @@
+TITLE: Stop Using 10% of AI — 11 Bots, 1 Boss (ELI5 Build-Along)
+CATEGORY: 22 (People & Blogs)
+PRIVACY: public (or unlisted 24h for QC first)
+
+TAGS: AI agents, AI automation, bot fleet, QC gate, build in public, solo operator, AI side hustle, tutorial, Darren MGLV
+
+CHAPTERS:
+0:00 Intro — Stop! You're using 10% of AI
+0:10 Step 1 — One toy box (Dispatcher)
+0:28 Step 2 — The guard (QC Gate)
+0:47 Step 3 — Pack 4 snacks (Week-1 Pack)
+1:10 Next — dispatcher alive, real clicks
+
+DESCRIPTION TEMPLATE: see the live video's description and swap in YOUR links:
+https://www.youtube.com/watch?v=9PV0DTzkYAo
